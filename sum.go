@@ -1,4 +1,4 @@
-package MyModule
+package mymodule
 
 func Sum(a, b int) int {
 	return a + b
